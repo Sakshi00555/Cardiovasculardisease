@@ -1,4 +1,4 @@
-````markdown
+
 # Cardiovascular Disease Prediction
 
 ## Project Overview
@@ -85,7 +85,7 @@ This project builds a machine-learning pipeline to predict a patient’s risk of
    ```bash
    git clone https://github.com/Sakshi00555/Cardiovasculardisease
    cd cardiovascular-prediction
-````
+
 
 2. **Create and activate a virtual environment**
 
